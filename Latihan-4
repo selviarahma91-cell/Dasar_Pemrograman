@@ -1,0 +1,3 @@
+nama = ["Azka", "Saladin", "Keyla", "Diva", "Leo"]
+nama.remove("Leo")
+print(nama)
